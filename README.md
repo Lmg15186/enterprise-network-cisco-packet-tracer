@@ -16,7 +16,7 @@ connectivity, dynamic addressing, and internal web services.
 - **10 LANs:** Finance, Procurement, Sales, IT, HR, Executive, Engineering, R&D, CustomerA, CustomerB
 - **WAN Links:** FastEthernet (Admin↔Core, Ops↔Core) and Serial (Core↔West, Core↔East, West↔East)
 
-![Network Topology](docs/topology-screenshot.png)
+![Network Topology](topology-screenshot.png)
 
 ## 🔧 Technologies & Concepts
 
